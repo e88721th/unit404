@@ -1,0 +1,1892 @@
+[
+  {
+    "id": 1,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）眼鏡」，請從下列選項中選出最恰當的：",
+    "options": ["副", "幅", "份", "座"],
+    "answer": 0,
+    "explanation": "「一副眼鏡」。「副」計算成套成組物品的單位，如對聯、眼鏡、碗筷。"
+  },
+  {
+    "id": 2,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）高山」，請從下列選項中選出最恰當的：",
+    "options": ["座", "道", "朵", "陣"],
+    "answer": 0,
+    "explanation": "「一座高山」。「座」計算有底座或大型物體的單位，如高山、橋、碉堡。"
+  },
+  {
+    "id": 3,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）日光」，請從下列選項中選出最恰當的：",
+    "options": ["派", "陣", "朵", "輪"],
+    "answer": 0,
+    "explanation": "「一派日光」。「派」有一大片的意思，如一派日光、一派胡言。"
+  },
+  {
+    "id": 4,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）菜餚」，請從下列選項中選出最恰當的：",
+    "options": ["道", "副", "場", "份"],
+    "answer": 0,
+    "explanation": "「一道菜餚」。「道」可計算菜餚的單位，如一道菜餚、十道菜。"
+  },
+  {
+    "id": 5,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）白雲」，請從下列選項中選出最恰當的：",
+    "options": ["朵", "道", "匹", "輪"],
+    "answer": 0,
+    "explanation": "「一朵白雲」。「朵」可計量雲彩或類似花朵的東西。"
+  },
+  {
+    "id": 6,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）電影」，請從下列選項中選出最恰當的：",
+    "options": ["場", "席", "齣", "座"],
+    "answer": 0,
+    "explanation": "「一場電影」。「場」計算活動的單位，如電影、豪雨、球賽。"
+  },
+  {
+    "id": 7,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）小草」，請從下列選項中選出最恰當的：",
+    "options": ["株", "朵", "顆", "抹"],
+    "answer": 0,
+    "explanation": "「一株小草」。「株」計算花草樹木的單位。"
+  },
+  {
+    "id": 8,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）油畫」，請從下列選項中選出最恰當的：",
+    "options": ["幅", "副", "座", "匹"],
+    "answer": 0,
+    "explanation": "「一幅油畫」。「幅」計算圖畫、布帛等平面物的單位。"
+  },
+  {
+    "id": 9,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）明月」，請從下列選項中選出最恰當的：",
+    "options": ["輪", "朵", "抹", "泓"],
+    "answer": 0,
+    "explanation": "「一輪明月」。「輪」計量太陽、月亮。"
+  },
+  {
+    "id": 10,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）強風」，請從下列選項中選出最恰當的：",
+    "options": ["陣", "節", "派", "場"],
+    "answer": 0,
+    "explanation": "「一陣強風」。「陣」計算事情或動作的單位，如強風、騷動、掌聲。"
+  },
+  {
+    "id": 11,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）種子」，請從下列選項中選出最恰當的：",
+    "options": ["顆", "株", "朵", "幅"],
+    "answer": 0,
+    "explanation": "「一顆種子」。「顆」計算粒狀或圓形物體的單位。"
+  },
+  {
+    "id": 12,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）紅暈」，請從下列選項中選出最恰當的：",
+    "options": ["抹", "派", "道", "泓"],
+    "answer": 0,
+    "explanation": "「一抹紅暈」。「抹」表示形狀的物量詞，有輕淡如筆抹的意思，更加形象生動富有詩意。"
+  },
+  {
+    "id": 13,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）掌聲」，請從下列選項中選出最恰當的：",
+    "options": ["陣", "道", "副", "泓"],
+    "answer": 0,
+    "explanation": "「一陣掌聲」。「陣」計算事情或動作的單位。"
+  },
+  {
+    "id": 14,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）對聯」，請從下列選項中選出最恰當的：",
+    "options": ["副", "幅", "支", "匹"],
+    "answer": 0,
+    "explanation": "「一副對聯」。「副」計算成套成組物品的單位。"
+  },
+  {
+    "id": 15,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「聽君一（  ）話,勝讀十年書」，請從下列選項中選出最恰當的：",
+    "options": ["席", "派", "幅", "卷"],
+    "answer": 0,
+    "explanation": "「一席話」。「席」可計算談話次數的單位，如「聽君一席話，勝讀十年書」。"
+  },
+  {
+    "id": 16,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「買一（  ）布」，請從下列選項中選出最恰當的：",
+    "options": ["匹", "幅", "卷", "道"],
+    "answer": 0,
+    "explanation": "「一匹布」。「匹」可計算布帛類紡織品的單位。"
+  },
+  {
+    "id": 17,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）戒指」，請從下列選項中選出最恰當的：",
+    "options": ["只", "顆", "副", "支"],
+    "answer": 0,
+    "explanation": "「一只戒指」。「只」計算物體件數的單位，同「隻」。"
+  },
+  {
+    "id": 18,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）彩虹」，請從下列選項中選出最恰當的：",
+    "options": ["道", "座", "場", "株"],
+    "answer": 0,
+    "explanation": "「一道彩虹」。「道」可計算條狀物的單位，如閃電、彩虹。"
+  },
+  {
+    "id": 19,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）戲」，請從下列選項中選出最恰當的：",
+    "options": ["齣", "只", "副", "座"],
+    "answer": 0,
+    "explanation": "「一齣戲」。「齣」計算戲曲劇目的單位。"
+  },
+  {
+    "id": 20,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）報紙」，請從下列選項中選出最恰當的：",
+    "options": ["份", "幅", "副", "席"],
+    "answer": 0,
+    "explanation": "「一份報紙」。「份」計算定量事物的單位，如工作、報紙、甜點。"
+  },
+  {
+    "id": 21,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）車廂」，請從下列選項中選出最恰當的：",
+    "options": ["節", "輛", "座", "道"],
+    "answer": 0,
+    "explanation": "「一節車廂」。「節」可計算車廂數目的單位。"
+  },
+  {
+    "id": 22,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）軍隊」，請從下列選項中選出最恰當的：",
+    "options": ["支", "座", "副", "派"],
+    "answer": 0,
+    "explanation": "「一支軍隊」。「支」可計算隊伍的單位。"
+  },
+  {
+    "id": 23,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）清泉」，請從下列選項中選出最恰當的：",
+    "options": ["泓", "派", "抹", "道"],
+    "answer": 0,
+    "explanation": "「一泓清泉」。「泓」指清水的一道或一片，如秋水、清泉。"
+  },
+  {
+    "id": 24,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）碉堡」，請從下列選項中選出最恰當的：",
+    "options": ["座", "道", "支", "只"],
+    "answer": 0,
+    "explanation": "「一座碉堡」。「座」計算有底座或大型物體的單位，如高山、橋、碉堡。"
+  },
+  {
+    "id": 25,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）閃電」，請從下列選項中選出最恰當的：",
+    "options": ["道", "座", "場", "株"],
+    "answer": 0,
+    "explanation": "「一道閃電」。「道」可計算條狀物，如閃電、彩虹。"
+  },
+  {
+    "id": 26,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）甜點」，請從下列選項中選出最恰當的：",
+    "options": ["份", "部", "副", "席"],
+    "answer": 0,
+    "explanation": "「一份甜點」。「份」計算定量事物的單位，如工作、報紙、甜點。"
+  },
+  {
+    "id": 27,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）圖畫」，請從下列選項中選出最恰當的：",
+    "options": ["幅", "副", "座", "匹"],
+    "answer": 0,
+    "explanation": "「一幅圖畫」。「幅」計算圖畫、布帛等平面物的單位。"
+  },
+  {
+    "id": 28,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）課」，請從下列選項中選出最恰當的：",
+    "options": ["節", "齣", "場", "道"],
+    "answer": 0,
+    "explanation": "「一節課」。「節」可計算時間分段的單位。"
+  },
+  {
+    "id": 29,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）紅花」，請從下列選項中選出最恰當的：",
+    "options": ["朵", "株", "顆", "支"],
+    "answer": 0,
+    "explanation": "「一朵紅花」。「朵」可計量花朵。"
+  },
+  {
+    "id": 30,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）橋」，請從下列選項中選出最恰當的：",
+    "options": ["座", "道", "支", "只"],
+    "answer": 0,
+    "explanation": "「一座橋」。「座」計算有底座或大型物體的單位。"
+  },
+  {
+    "id": 31,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）秋水」，請從下列選項中選出最恰當的：",
+    "options": ["泓", "派", "抹", "道"],
+    "answer": 0,
+    "explanation": "「一泓秋水」。「泓」指清水的一道或一片，如秋水、清泉。"
+  },
+  {
+    "id": 32,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）歌曲」，請從下列選項中選出最恰當的：",
+    "options": ["支", "部", "道", "節"],
+    "answer": 0,
+    "explanation": "「一支歌曲」。「支」可計算歌曲、樂曲的單位。"
+  },
+  {
+    "id": 33,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）旭日」，請從下列選項中選出最恰當的：",
+    "options": ["輪", "朵", "抹", "泓"],
+    "answer": 0,
+    "explanation": "「一輪旭日」。「輪」計量太陽、月亮。"
+  },
+  {
+    "id": 34,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）豪雨」，請從下列選項中選出最恰當的：",
+    "options": ["場", "派", "道", "座"],
+    "answer": 0,
+    "explanation": "「一場豪雨」。「場」計算活動的單位，如電影、豪雨、球賽。"
+  },
+  {
+    "id": 35,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）彩霞」，請從下列選項中選出最恰當的：",
+    "options": ["抹", "派", "匹", "泓"],
+    "answer": 0,
+    "explanation": "「一抹彩霞」。「抹」表示形狀的物量詞，有輕淡如筆抹的意思，更加形象生動富有詩意。"
+  },
+  {
+    "id": 36,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「一（  ）馬」，請從下列選項中選出最恰當的：",
+    "options": ["匹", "個", "頭", "座"],
+    "answer": 0,
+    "explanation": "「一匹馬」。「匹」可計算馬、騾、驢等牲畜的單位。"
+  },
+  {
+    "id": 1,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「高歌一（  ）」，請從下列選項中選出最恰當的：",
+    "options": ["曲", "句", "支", "道"],
+    "answer": 0,
+    "explanation": "「高歌一曲」。「曲」計算歌曲、樂曲的單位。"
+  },
+  {
+    "id": 2,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「小事一（  ）」，請從下列選項中選出最恰當的：",
+    "options": ["樁", "顆", "個", "道"],
+    "answer": 0,
+    "explanation": "「小事一樁」。「樁」計算事情件數的單位。"
+  },
+  {
+    "id": 3,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「環島一（  ）」，請從下列選項中選出最恰當的：",
+    "options": ["周", "座", "節", "陣"],
+    "answer": 0,
+    "explanation": "「環島一周」。「周」計算環繞次數的單位。"
+  },
+  {
+    "id": 4,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「對弈兩（  ）」，請從下列選項中選出最恰當的：",
+    "options": ["局", "席", "顆", "座"],
+    "answer": 0,
+    "explanation": "「對弈兩局」。「局」計算棋類或球類等活動的單位。"
+  },
+  {
+    "id": 5,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）扁舟」，請從下列選項中選出最恰當的：",
+    "options": ["葉", "副", "抹", "份"],
+    "answer": 0,
+    "explanation": "「一葉扁舟」。「葉」計算小船的單位。"
+  },
+  {
+    "id": 6,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）螞蟻」，請從下列選項中選出最恰當的：",
+    "options": ["窩", "支", "道", "場"],
+    "answer": 0,
+    "explanation": "「一窩螞蟻」。「窩」計量待在窩中的初生動物。"
+  },
+  {
+    "id": 7,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）大炮」，請從下列選項中選出最恰當的：",
+    "options": ["門", "棵", "把", "篇"],
+    "answer": 0,
+    "explanation": "「一門大炮」。「門」可計算大炮的單位。"
+  },
+  {
+    "id": 8,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）銀子」，請從下列選項中選出最恰當的：",
+    "options": ["錠", "門", "面", "具"],
+    "answer": 0,
+    "explanation": "「一錠銀子」。「錠」為銀貨幣的計量單位。"
+  },
+  {
+    "id": 9,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）飛機」，請從下列選項中選出最恰當的：",
+    "options": ["架", "艘", "段", "列"],
+    "answer": 0,
+    "explanation": "「一架飛機」。「架」計算飛機或機器等的單位。"
+  },
+  {
+    "id": 10,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）樓房」，請從下列選項中選出最恰當的：",
+    "options": ["棟", "件", "樁", "架"],
+    "answer": 0,
+    "explanation": "「一棟樓房」。「棟」計算房屋建築物的單位。"
+  },
+  {
+    "id": 11,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）牆」，請從下列選項中選出最恰當的：",
+    "options": ["堵", "周", "局", "把"],
+    "answer": 0,
+    "explanation": "「一堵牆」。「堵」計算牆壁的單位。"
+  },
+  {
+    "id": 12,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）晚禮服」，請從下列選項中選出最恰當的：",
+    "options": ["襲", "片", "幅", "副"],
+    "answer": 0,
+    "explanation": "「一襲晚禮服」。「襲」計算成套的衣服或被褥的單位。"
+  },
+  {
+    "id": 13,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）小雞」，請從下列選項中選出最恰當的：",
+    "options": ["窩", "曲", "門", "襲"],
+    "answer": 0,
+    "explanation": "「一窩小雞」。「窩」計量待在窩中的初生動物。"
+  },
+  {
+    "id": 14,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）日記」，請從下列選項中選出最恰當的：",
+    "options": ["篇", "頁", "面", "周"],
+    "answer": 0,
+    "explanation": "「一篇日記」。「篇」計算文章或詩作的單位。"
+  },
+  {
+    "id": 15,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）鏡子」，請從下列選項中選出最恰當的：",
+    "options": ["面", "錠", "頂", "副"],
+    "answer": 0,
+    "explanation": "「一面鏡子」。「面」計算平面物的單位，如國旗、鏡子、牆。"
+  },
+  {
+    "id": 16,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）土司」，請從下列選項中選出最恰當的：",
+    "options": ["片", "具", "枚", "顆"],
+    "answer": 0,
+    "explanation": "「一片土司」。「片」計算薄而成片的東西的單位。"
+  },
+  {
+    "id": 17,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）袈裟」，請從下列選項中選出最恰當的：",
+    "options": ["襲", "片", "曲", "副"],
+    "answer": 0,
+    "explanation": "「一襲袈裟」。「襲」計算成套的衣服或被褥的單位。"
+  },
+  {
+    "id": 18,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）套房」，請從下列選項中選出最恰當的：",
+    "options": ["間", "局", "座", "層"],
+    "answer": 0,
+    "explanation": "「一間套房」。「間」計算房屋等建築物的單位。"
+  },
+  {
+    "id": 19,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）美事」，請從下列選項中選出最恰當的：",
+    "options": ["樁", "篇", "個", "道"],
+    "answer": 0,
+    "explanation": "「一樁美事」。「樁」計算事情件數的單位。"
+  },
+  {
+    "id": 20,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）轎子」，請從下列選項中選出最恰當的：",
+    "options": ["頂", "間", "副", "乘"],
+    "answer": 0,
+    "explanation": "「一頂轎子」。「頂」計算帽子、轎子等的單位。"
+  },
+  {
+    "id": 21,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）刀子」，請從下列選項中選出最恰當的：",
+    "options": ["把", "錠", "棟", "片"],
+    "answer": 0,
+    "explanation": "「一把刀子」。「把」計算有柄、有把手器物的單位。"
+  },
+  {
+    "id": 22,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）古墨」，請從下列選項中選出最恰當的：",
+    "options": ["錠", "把", "抹", "棵"],
+    "answer": 0,
+    "explanation": "「一錠古墨」。「錠」可計量塊狀物，常用於計量墨。"
+  },
+  {
+    "id": 23,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）功課」，請從下列選項中選出最恰當的：",
+    "options": ["門", "只", "個", "道"],
+    "answer": 0,
+    "explanation": "「一門功課」。「門」可計算學科、技藝門類的單位。"
+  },
+  {
+    "id": 24,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）郵票」，請從下列選項中選出最恰當的：",
+    "options": ["枚", "節", "堵", "個"],
+    "answer": 0,
+    "explanation": "「一枚郵票」。「枚」計算形體較小物品的單位，相當於「個」。"
+  },
+  {
+    "id": 25,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）巴士」，請從下列選項中選出最恰當的：",
+    "options": ["節", "座", "輛", "乘"],
+    "answer": 2,
+    "explanation": "「一輛巴士」。「輛」計算車輛的單位。"
+  },
+  {
+    "id": 26,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）電話」，請從下列選項中選出最恰當的：",
+    "options": ["具", "門", "副", "家"],
+    "answer": 0,
+    "explanation": "「一具電話」。「具」計算器物、屍體等的單位。"
+  },
+  {
+    "id": 27,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）雨傘」，請從下列選項中選出最恰當的：",
+    "options": ["把", "串", "枚", "片"],
+    "answer": 0,
+    "explanation": "「一把雨傘」。「把」計算有柄、有把手器物的單位。"
+  },
+  {
+    "id": 28,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）硬幣」，請從下列選項中選出最恰當的：",
+    "options": ["枚", "只", "塊", "粒"],
+    "answer": 0,
+    "explanation": "「一枚硬幣」。「枚」計算形體較小物品的單位，相當於「個」。"
+  },
+  {
+    "id": 29,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）親家」，請從下列選項中選出最恰當的：",
+    "options": ["門", "間", "片", "面"],
+    "answer": 0,
+    "explanation": "「一門親家」。「門」可計算親戚家數的單位。"
+  },
+  {
+    "id": 30,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）國旗」，請從下列選項中選出最恰當的：",
+    "options": ["面", "抹", "頂", "隻"],
+    "answer": 0,
+    "explanation": "「一面國旗」。「面」計算平面物的單位。"
+  },
+  {
+    "id": 31,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）樹林」，請從下列選項中選出最恰當的：",
+    "options": ["片", "窩", "棵", "顆"],
+    "answer": 0,
+    "explanation": "「一片樹林」。「片」可計算地面物的單位，如樹林、草地。"
+  },
+  {
+    "id": 32,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）店面」，請從下列選項中選出最恰當的：",
+    "options": ["間", "棟", "座", "列"],
+    "answer": 0,
+    "explanation": "「一間店面」。「間」計算房屋等建築物的單位。"
+  },
+  {
+    "id": 33,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）土匪」，請從下列選項中選出最恰當的：",
+    "options": ["窩", "把", "派", "朵"],
+    "answer": 0,
+    "explanation": "「一窩土匪」。「窩」用來計量團聚成黨的人，含有貶義。"
+  },
+  {
+    "id": 34,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）火車」，請從下列選項中選出最恰當的：",
+    "options": ["列", "輛", "座", "道"],
+    "answer": 0,
+    "explanation": "「一列火車」。「列」計算成行成列的人或物的單位。"
+  },
+  {
+    "id": 35,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）文章」，請從下列選項中選出最恰當的：",
+    "options": ["篇", "本", "場", "份"],
+    "answer": 0,
+    "explanation": "「一篇文章」。「篇」計算文章或詩作的單位。"
+  },
+  {
+    "id": 36,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「一（  ）洋裝」，請從下列選項中選出最恰當的：",
+    "options": ["襲", "片", "段", "副"],
+    "answer": 0,
+    "explanation": "「一襲洋裝」。「襲」計算成套的衣服或被褥的單位。"
+  },
+  {
+    "id": 1,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）詞」，請從下列選項中選出最恰當的：",
+    "options": ["闋", "幅", "篇", "列"],
+    "answer": 0,
+    "explanation": "「一闋詞」。「闋」計算歌、詞、曲的單位。"
+  },
+  {
+    "id": 2,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）飯」，請從下列選項中選出最恰當的：",
+    "options": ["碗", "堂", "面", "戶"],
+    "answer": 0,
+    "explanation": "「一碗飯」。「碗」計算碗裝物的單位，如一碗茶、一碗飯。"
+  },
+  {
+    "id": 3,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）課」，請從下列選項中選出最恰當的：",
+    "options": ["堂", "所", "則", "段"],
+    "answer": 0,
+    "explanation": "「一堂課」。「堂」計算課程分節的單位。"
+  },
+  {
+    "id": 4,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）嘴」，請從下列選項中選出最恰當的：",
+    "options": ["張", "口", "股", "串"],
+    "answer": 0,
+    "explanation": "「一張嘴」。「張」計算某些可張開物體的單位，如一張弓、一張嘴。"
+  },
+  {
+    "id": 5,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「五（  ）地震」，請從下列選項中選出最恰當的：",
+    "options": ["級", "戶", "度", "尊"],
+    "answer": 0,
+    "explanation": "「五級地震」。「級」計算事物分級的單位。"
+  },
+  {
+    "id": 6,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）佛像」，請從下列選項中選出最恰當的：",
+    "options": ["尊", "組", "把", "面"],
+    "answer": 0,
+    "explanation": "「一尊佛像」。「尊」計算神像或大炮的單位。"
+  },
+  {
+    "id": 7,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）匪徒」，請從下列選項中選出最恰當的：",
+    "options": ["幫", "尾", "頓", "堂"],
+    "answer": 0,
+    "explanation": "「一幫匪徒」。「幫」計算成批、成群事物的單位，如一幫人馬、一幫匪徒。"
+  },
+  {
+    "id": 8,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）武將」，請從下列選項中選出最恰當的：",
+    "options": ["員", "宗", "刻", "口"],
+    "answer": 0,
+    "explanation": "「一員武將」。「員」計算人數的單位，如一員武將、一員大將。"
+  },
+  {
+    "id": 9,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）新聞」，請從下列選項中選出最恰當的：",
+    "options": ["則", "記", "闕", "次"],
+    "answer": 0,
+    "explanation": "「一則新聞」。「則」計算文字分項段落的單位，如一則消息、一則寓言、一則新聞。"
+  },
+  {
+    "id": 10,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）軍艦」，請從下列選項中選出最恰當的：",
+    "options": ["艘", "尾", "架", "座"],
+    "answer": 0,
+    "explanation": "「一艘軍艦」。「艘」計算船隻、艦艇的單位。"
+  },
+  {
+    "id": 11,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）鞋子」，請從下列選項中選出最恰當的：",
+    "options": ["雙", "對", "口", "幅"],
+    "answer": 0,
+    "explanation": "「一雙鞋子」。「雙」計算成對物品的單位，如一雙鞋子、一雙襪子、一雙筷子。"
+  },
+  {
+    "id": 12,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）魚」，請從下列選項中選出最恰當的：",
+    "options": ["尾", "頓", "幫", "刀"],
+    "answer": 0,
+    "explanation": "「一尾魚」。「尾」計算魚的數量的單位。"
+  },
+  {
+    "id": 13,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）人家」，請從下列選項中選出最恰當的：",
+    "options": ["戶", "堂", "所", "座"],
+    "answer": 0,
+    "explanation": "「一戶人家」。「戶」計算住家數量的單位，如一戶人家、五百戶住家。"
+  },
+  {
+    "id": 14,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）水」，請從下列選項中選出最恰當的：",
+    "options": ["杯", "撮", "級", "張"],
+    "answer": 0,
+    "explanation": "「一杯水」。「杯」計算杯裝物的單位，如一杯水、一杯麵粉。"
+  },
+  {
+    "id": 15,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）學校」，請從下列選項中選出最恰當的：",
+    "options": ["所", "道", "篇", "門"],
+    "answer": 0,
+    "explanation": "「一所學校」。「所」計算建築物的單位。"
+  },
+  {
+    "id": 16,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）買賣」，請從下列選項中選出最恰當的：",
+    "options": ["宗", "組", "串", "方"],
+    "answer": 0,
+    "explanation": "「一宗買賣」。「宗」計算交易或事物數量的單位，如一宗買賣、數宗公文。"
+  },
+  {
+    "id": 17,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）新月」，請從下列選項中選出最恰當的：",
+    "options": ["彎", "輪", "抹", "丸"],
+    "answer": 0,
+    "explanation": "「一彎新月」。「彎」用於某些彎彎的東西，如一彎新月、一彎月牙兒、一彎秀眉。"
+  },
+  {
+    "id": 18,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）消息」，請從下列選項中選出最恰當的：",
+    "options": ["則", "組", "口", "團"],
+    "answer": 0,
+    "explanation": "「一則消息」。「則」計算文字分項段落的單位。"
+  },
+  {
+    "id": 19,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）念珠」，請從下列選項中選出最恰當的：",
+    "options": ["串", "幅", "掛", "手"],
+    "answer": 0,
+    "explanation": "「一串念珠」。「串」計算成串物品的單位，如一串念珠、一串佛珠、一串銅錢。"
+  },
+  {
+    "id": 20,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）古井」，請從下列選項中選出最恰當的：",
+    "options": ["口", "碗", "尊", "宗"],
+    "answer": 0,
+    "explanation": "「一口古井」。「口」可計算器物數量的單位，如一口鍋子、一口古井、一口大鐘。"
+  },
+  {
+    "id": 21,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）弓」，請從下列選項中選出最恰當的：",
+    "options": ["張", "撮", "方", "具"],
+    "answer": 0,
+    "explanation": "「一張弓」。「張」計算某些可張開物體的單位，如一張弓、一張嘴。"
+  },
+  {
+    "id": 22,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）頭髮」，請從下列選項中選出最恰當的：",
+    "options": ["撮", "粒", "刀", "顆"],
+    "answer": 0,
+    "explanation": "「一撮頭髮」。「撮」計算成叢的毛髮或野草。"
+  },
+  {
+    "id": 23,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「百（  ）石階」，請從下列選項中選出最恰當的：",
+    "options": ["級", "股", "則", "組"],
+    "answer": 0,
+    "explanation": "「百級石階」。「級」計算臺階、樓梯、塔層等的單位。"
+  },
+  {
+    "id": 24,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）鐘（15分鐘）」，請從下列選項中選出最恰當的：",
+    "options": ["刻", "分", "時", "秒"],
+    "answer": 0,
+    "explanation": "「一刻鐘」即15分鐘。「刻」計算時間的單位，今以十五分鐘為一刻。"
+  },
+  {
+    "id": 25,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）桌子」，請從下列選項中選出最恰當的：",
+    "options": ["張", "面", "個", "座"],
+    "answer": 0,
+    "explanation": "「一張桌子」。「張」計算平面物品的單位，如一張紙、一張桌子、一張薄餅。"
+  },
+  {
+    "id": 26,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）秀眉」，請從下列選項中選出最恰當的：",
+    "options": ["彎", "抹", "組", "段"],
+    "answer": 0,
+    "explanation": "「一彎秀眉」。「彎」用於某些彎彎的東西，如一彎新月、一彎月牙兒、一彎秀眉。"
+  },
+  {
+    "id": 27,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）輪船」，請從下列選項中選出最恰當的：",
+    "options": ["艘", "只", "輛", "尾"],
+    "answer": 0,
+    "explanation": "「一艘輪船」。「艘」計算船隻、艦艇的單位。"
+  },
+  {
+    "id": 28,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）幽香」，請從下列選項中選出最恰當的：",
+    "options": ["股", "串", "頓", "次"],
+    "answer": 0,
+    "explanation": "「一股幽香」。「股」計算力氣或氣體等的單位，如一股勁、一股幽香、一股暖流。"
+  },
+  {
+    "id": 29,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）老師」，請從下列選項中選出最恰當的：",
+    "options": ["位", "家", "戶", "口"],
+    "answer": 0,
+    "explanation": "「一位老師」。「位」計算人數的單位，多含敬意。"
+  },
+  {
+    "id": 30,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）茶具」，請從下列選項中選出最恰當的：",
+    "options": ["組", "宗", "尾", "杯"],
+    "answer": 0,
+    "explanation": "「一組茶具」。「組」計算成套的物品或人事編制的單位。"
+  },
+  {
+    "id": 31,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）寓言」，請從下列選項中選出最恰當的：",
+    "options": ["則", "手", "張", "首"],
+    "answer": 0,
+    "explanation": "「一則寓言」。「則」計算文字分項段落的單位。"
+  },
+  {
+    "id": 32,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）大鐘」，請從下列選項中選出最恰當的：",
+    "options": ["口", "尊", "隻", "具"],
+    "answer": 0,
+    "explanation": "「一口大鐘」。「口」可計算器物數量的單位，如一口鍋子、一口古井、一口大鐘。"
+  },
+  {
+    "id": 33,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）土」，請從下列選項中選出最恰當的：",
+    "options": ["撮", "股", "堂", "枚"],
+    "answer": 0,
+    "explanation": "「一撮土」。「撮」計算手指抓取物的單位，如一撮鹽巴、一撮土。"
+  },
+  {
+    "id": 34,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）好字」，請從下列選項中選出最恰當的：",
+    "options": ["手", "張", "位", "員"],
+    "answer": 0,
+    "explanation": "「一手好字」。「手」計算技能、本領的單位，如一手好字、露兩手。"
+  },
+  {
+    "id": 35,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）筷子」，請從下列選項中選出最恰當的：",
+    "options": ["雙", "對", "張", "串"],
+    "answer": 0,
+    "explanation": "「一雙筷子」。「雙」計算成對物品的單位，如一雙鞋子、一雙襪子、一雙筷子。"
+  },
+  {
+    "id": 36,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一（  ）大炮」，請從下列選項中選出最恰當的：",
+    "options": ["尊", "組", "則", "頓"],
+    "answer": 0,
+    "explanation": "「一尊大炮」。「尊」計算神像或大炮的單位，如一尊大炮、一尊佛像、一尊神像。"
+  },
+  {
+    "id": 1,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）好意」，請從下列選項中選出最恰當的：",
+    "options": ["番", "方", "次", "遍"],
+    "answer": 0,
+    "explanation": "「一番好意」。「番」計算次數的單位，相當於「回」、「次」，如一番好意、思考一番、一番苦心。"
+  },
+  {
+    "id": 2,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）毛筆」，請從下列選項中選出最恰當的：",
+    "options": ["枝", "隻", "棵", "把"],
+    "answer": 0,
+    "explanation": "「一枝毛筆」。「枝」計算細長物體的單位，如一枝花、一枝毛筆。"
+  },
+  {
+    "id": 3,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）詩」，請從下列選項中選出最恰當的：",
+    "options": ["首", "帖", "卷", "則"],
+    "answer": 0,
+    "explanation": "「一首詩」。「首」計算詩、歌曲等的單位。"
+  },
+  {
+    "id": 4,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）門」，請從下列選項中選出最恰當的：",
+    "options": ["扇", "客", "級", "戶"],
+    "answer": 0,
+    "explanation": "「一扇門」。「扇」計算板狀物或片狀物的單位，如一扇門、一扇窗。"
+  },
+  {
+    "id": 5,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）照片」，請從下列選項中選出最恰當的：",
+    "options": ["幀", "則", "副", "宗"],
+    "answer": 0,
+    "explanation": "「一幀照片」。「幀」計算照片、字畫等的單位。"
+  },
+  {
+    "id": 6,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）棉被」，請從下列選項中選出最恰當的：",
+    "options": ["床", "戶", "員", "張"],
+    "answer": 0,
+    "explanation": "「一床棉被」。「床」計算被褥、毛毯等的單位。"
+  },
+  {
+    "id": 7,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）手帕」，請從下列選項中選出最恰當的：",
+    "options": ["方", "局", "番", "團"],
+    "answer": 0,
+    "explanation": "「一方手帕」。「方」計算方形物品的單位，相當於「塊」、「個」，如一方硯臺、一方手帕、一方圖章。"
+  },
+  {
+    "id": 8,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）衛生紙」，請從下列選項中選出最恰當的：",
+    "options": ["卷", "雙", "間", "級"],
+    "answer": 0,
+    "explanation": "「一卷衛生紙」。「卷」計算成卷物品的單位，如一卷底片、一卷衛生紙。"
+  },
+  {
+    "id": 9,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）樹」，請從下列選項中選出最恰當的：",
+    "options": ["棵", "杯", "根", "枝"],
+    "answer": 0,
+    "explanation": "「一棵樹」。「棵」計算植物的單位。"
+  },
+  {
+    "id": 10,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）牛排」，請從下列選項中選出最恰當的：",
+    "options": ["客", "條", "撮", "門"],
+    "answer": 0,
+    "explanation": "「一客牛排」。「客」計算定量出售食品的單位，如一客牛排。"
+  },
+  {
+    "id": 11,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）燈」，請從下列選項中選出最恰當的：",
+    "options": ["盞", "團", "縷", "尊"],
+    "answer": 0,
+    "explanation": "「一盞燈」。「盞」計算燈或飲料的單位，如一盞燈、一盞酒、一盞茶工夫。"
+  },
+  {
+    "id": 12,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）清香」，請從下列選項中選出最恰當的：",
+    "options": ["炷", "項", "頓", "帖"],
+    "answer": 0,
+    "explanation": "「一炷清香」。「炷」計算線香的單位，如燒一炷香、一炷清香。"
+  },
+  {
+    "id": 13,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）高樓」，請從下列選項中選出最恰當的：",
+    "options": ["幢", "戶", "派", "戶"],
+    "answer": 0,
+    "explanation": "「一幢高樓」。「幢」計算房屋的單位，指較寬的高層建築物。"
+  },
+  {
+    "id": 14,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）歌」，請從下列選項中選出最恰當的：",
+    "options": ["首", "道", "輪", "篇"],
+    "answer": 0,
+    "explanation": "「一首歌」。「首」計算詩、歌曲等的單位。"
+  },
+  {
+    "id": 15,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）圖章」，請從下列選項中選出最恰當的：",
+    "options": ["方", "片", "粒", "塊"],
+    "answer": 0,
+    "explanation": "「一方圖章」。「方」計算方形物品的單位，相當於「塊」、「個」。"
+  },
+  {
+    "id": 16,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）好酒」，請從下列選項中選出最恰當的：",
+    "options": ["盅", "列", "間", "泓"],
+    "answer": 0,
+    "explanation": "「一盅好酒」。「盅」計算盅裝液體的單位，如一盅好酒。"
+  },
+  {
+    "id": 17,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）藥」，請從下列選項中選出最恰當的：",
+    "options": ["帖", "只", "束", "桌"],
+    "answer": 0,
+    "explanation": "「一帖藥」。「帖」計算藥劑的單位，如一帖藥、一帖藥方、一帖膏藥。"
+  },
+  {
+    "id": 18,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）鮮花」，請從下列選項中選出最恰當的：",
+    "options": ["束", "門", "部", "重"],
+    "answer": 0,
+    "explanation": "「一束鮮花」。「束」計算成束物品的單位。"
+  },
+  {
+    "id": 19,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）書」，請從下列選項中選出最恰當的：",
+    "options": ["落", "紙", "班", "處"],
+    "answer": 0,
+    "explanation": "「一落書」。「落」計算成堆成疊物品的單位，如一落書、一落碗。"
+  },
+  {
+    "id": 20,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）水果」，請從下列選項中選出最恰當的：",
+    "options": ["箱", "幀", "匝", "首"],
+    "answer": 0,
+    "explanation": "「一箱水果」。「箱」計算箱裝物的單位，如兩箱衣服、一箱水果。"
+  },
+  {
+    "id": 21,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）窗」，請從下列選項中選出最恰當的：",
+    "options": ["扇", "門", "冊", "束"],
+    "answer": 0,
+    "explanation": "「一扇窗」。「扇」計算板狀物或片狀物的單位，如一扇門、一扇窗。"
+  },
+  {
+    "id": 22,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）酒席」，請從下列選項中選出最恰當的：",
+    "options": ["桌", "舍", "段", "對"],
+    "answer": 0,
+    "explanation": "「一桌酒席」。「桌」計算菜餚、酒席、賓客等的單位。"
+  },
+  {
+    "id": 23,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）炊煙」，請從下列選項中選出最恰當的：",
+    "options": ["縷", "炷", "幢", "道"],
+    "answer": 0,
+    "explanation": "「一縷炊煙」。「縷」計算纖細條狀物的單位。"
+  },
+  {
+    "id": 24,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）辭典」，請從下列選項中選出最恰當的：",
+    "options": ["部", "扇", "招", "種"],
+    "answer": 0,
+    "explanation": "「一部辭典」。「部」計算書籍、影視戲劇等的單位。"
+  },
+  {
+    "id": 25,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）奶粉」，請從下列選項中選出最恰當的：",
+    "options": ["罐", "床", "盞", "錠"],
+    "answer": 0,
+    "explanation": "「一罐奶粉」。「罐」計算罐裝物的單位，如一罐罐頭、一罐奶粉。"
+  },
+  {
+    "id": 26,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）稿紙」，請從下列選項中選出最恰當的：",
+    "options": ["刀", "副", "帖", "項"],
+    "answer": 0,
+    "explanation": "「一刀稿紙」。「刀」計算紙張的單位，一百張為一刀。"
+  },
+  {
+    "id": 27,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）苦心」，請從下列選項中選出最恰當的：",
+    "options": ["番", "團", "門", "種"],
+    "answer": 0,
+    "explanation": "「一番苦心」。「番」計算次數的單位，相當於「回」、「次」。"
+  },
+  {
+    "id": 28,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）藥方」，請從下列選項中選出最恰當的：",
+    "options": ["帖", "刀", "味", "介"],
+    "answer": 0,
+    "explanation": "「一帖藥方」。「帖」計算藥劑的單位。"
+  },
+  {
+    "id": 29,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）公文」，請從下列選項中選出最恰當的：",
+    "options": ["紙", "幀", "章", "束"],
+    "answer": 0,
+    "explanation": "「一紙公文」。「紙」計算文件書信張數的單位。"
+  },
+  {
+    "id": 30,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）糖果」，請從下列選項中選出最恰當的：",
+    "options": ["顆", "通", "盅", "棵"],
+    "answer": 0,
+    "explanation": "「一顆糖果」。「顆」計算粒狀或圓形物體的單位，如種子、子彈。"
+  },
+  {
+    "id": 31,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「十（  ）建設」，請從下列選項中選出最恰當的：",
+    "options": ["項", "份", "類", "根"],
+    "answer": 0,
+    "explanation": "「十項建設」。「項」計算事物分類或件數的單位，如鐵人三項運動、十項建設。"
+  },
+  {
+    "id": 32,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）底片」，請從下列選項中選出最恰當的：",
+    "options": ["卷", "支", "副", "幀"],
+    "answer": 0,
+    "explanation": "「一卷底片」。「卷」計算成卷物品的單位，如一卷底片、一卷衛生紙。"
+  },
+  {
+    "id": 33,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）藥丸」，請從下列選項中選出最恰當的：",
+    "options": ["粒", "頭", "名", "罈"],
+    "answer": 0,
+    "explanation": "「一粒藥丸」。「粒」計算粒狀物的單位，如一粒砂子、一粒藥丸。"
+  },
+  {
+    "id": 34,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）瘀傷」，請從下列選項中選出最恰當的：",
+    "options": ["處", "介", "記", "招"],
+    "answer": 0,
+    "explanation": "「一處瘀傷」。「處」計算部位、地點的單位，如一處勝景、一處瘀傷。"
+  },
+  {
+    "id": 35,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）硯臺」，請從下列選項中選出最恰當的：",
+    "options": ["方", "管", "扇", "座"],
+    "answer": 0,
+    "explanation": "「一方硯臺」。「方」計算方形物品的單位，相當於「塊」、「個」。"
+  },
+  {
+    "id": 36,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一（  ）毛線」，請從下列選項中選出最恰當的：",
+    "options": ["團", "束", "顆", "匹"],
+    "answer": 0,
+    "explanation": "「一團毛線」。「團」計算團狀物的單位，如一團毛線、一團泥巴。"
+  },
+  {
+    "id": 1,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）機關槍」，請從下列選項中選出最恰當的：",
+    "options": ["挺", "枚", "錠", "樁"],
+    "answer": 0,
+    "explanation": "「一挺機關槍」。「挺」計算機槍數量的單位。"
+  },
+  {
+    "id": 2,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）書生」，請從下列選項中選出最恰當的：",
+    "options": ["介", "席", "襲", "戶"],
+    "answer": 0,
+    "explanation": "「一介書生」。「介」計算人或銅錢的單位，相當於「個」，如一介書生、一介平民、一介不取。"
+  },
+  {
+    "id": 3,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）酒」，請從下列選項中選出最恰當的：",
+    "options": ["罈", "份", "泓", "尊"],
+    "answer": 0,
+    "explanation": "「一罈酒」。「罈」計算罈裝物的單位，如一罈酒、一罈醬菜。"
+  },
+  {
+    "id": 4,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）辭典」，請從下列選項中選出最恰當的：",
+    "options": ["部", "則", "組", "套"],
+    "answer": 0,
+    "explanation": "「一部辭典」。「部」計算書籍、影視戲劇等的單位。"
+  },
+  {
+    "id": 5,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）水果」，請從下列選項中選出最恰當的：",
+    "options": ["籃", "串", "刀", "棵"],
+    "answer": 0,
+    "explanation": "「一籃水果」。「籃」計算籃裝物的單位。"
+  },
+  {
+    "id": 6,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）鐲子」，請從下列選項中選出最恰當的：",
+    "options": ["對", "股", "縷", "部"],
+    "answer": 0,
+    "explanation": "「一對鐲子」。「對」計算成雙的人或物的單位。"
+  },
+  {
+    "id": 7,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）人馬」，請從下列選項中選出最恰當的：",
+    "options": ["班", "位", "員", "客"],
+    "answer": 0,
+    "explanation": "「一班人馬」。「班」計算人群的單位。"
+  },
+  {
+    "id": 8,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）錢」，請從下列選項中選出最恰當的：",
+    "options": ["文", "盞", "張", "條"],
+    "answer": 0,
+    "explanation": "「一文錢」。「文」為舊時計算銅幣的單位。"
+  },
+  {
+    "id": 9,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一年半（  ）」，請從下列選項中選出最恰當的：",
+    "options": ["載", "刻", "頓", "世"],
+    "answer": 0,
+    "explanation": "「一年半載」。「載」計算時間的單位，相當於「年」。"
+  },
+  {
+    "id": 10,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「退避三（  ）」，請從下列選項中選出最恰當的：",
+    "options": ["舍", "里", "步", "尺"],
+    "answer": 0,
+    "explanation": "「退避三舍」。「舍」計算行軍里數的單位，30里為一舍。"
+  },
+  {
+    "id": 11,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「八（  ）中藥材」，請從下列選項中選出最恰當的：",
+    "options": ["味", "種", "粒", "級"],
+    "answer": 0,
+    "explanation": "「八味中藥材」。「味」計算食物或中藥的單位，如藥八味、八味中藥材。"
+  },
+  {
+    "id": 12,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「人生頭一（  ）」，請從下列選項中選出最恰當的：",
+    "options": ["遭", "道", "陣", "席"],
+    "answer": 0,
+    "explanation": "「人生頭一遭」。「遭」計算事情次數的單位，相當於「回」。"
+  },
+  {
+    "id": 13,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「千（  ）難逢」，請從下列選項中選出最恰當的：",
+    "options": ["載", "次", "遍", "回"],
+    "answer": 0,
+    "explanation": "「千載難逢」。「載」計算時間的單位，相當於「年」。"
+  },
+  {
+    "id": 14,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）夫妻」，請從下列選項中選出最恰當的：",
+    "options": ["對", "個", "副", "組"],
+    "answer": 0,
+    "explanation": "「一對夫妻」。「對」計算成雙的人或物的單位。"
+  },
+  {
+    "id": 15,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）牛」，請從下列選項中選出最恰當的：",
+    "options": ["頭", "尾", "匹", "座"],
+    "answer": 0,
+    "explanation": "「一頭牛」。「頭」計算牛、驢、騾、羊、豬等牲畜的單位。"
+  },
+  {
+    "id": 16,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）毛巾」，請從下列選項中選出最恰當的：",
+    "options": ["打", "枚", "塊", "份"],
+    "answer": 0,
+    "explanation": "「一打毛巾」。「打」計算物品的單位，12個為一打。"
+  },
+  {
+    "id": 17,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「萬（  ）之國」，請從下列選項中選出最恰當的：",
+    "options": ["乘", "輛", "架", "艘"],
+    "answer": 0,
+    "explanation": "「萬乘之國」。「乘」為古代計算車輛的單位。"
+  },
+  {
+    "id": 18,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）猛藥」，請從下列選項中選出最恰當的：",
+    "options": ["劑", "級", "片", "通"],
+    "answer": 0,
+    "explanation": "「一劑猛藥」。「劑」計算經過調配後的藥物的單位。"
+  },
+  {
+    "id": 19,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「七（  ）夫妻」，請從下列選項中選出最恰當的：",
+    "options": ["世", "紀", "代", "年"],
+    "answer": 0,
+    "explanation": "「七世夫妻」。「世」計算一生、一輩子的單位。"
+  },
+  {
+    "id": 20,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）信」，請從下列選項中選出最恰當的：",
+    "options": ["封", "抹", "節", "枚"],
+    "answer": 0,
+    "explanation": "「一封信」。「封」計算包裹或裝上封套物件的單位。"
+  },
+  {
+    "id": 21,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「學生十（  ）」，請從下列選項中選出最恰當的：",
+    "options": ["名", "派", "席", "口"],
+    "answer": 0,
+    "explanation": "「學生十名」。「名」計算人的單位，如學生十名、缺席一名。"
+  },
+  {
+    "id": 22,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「為山九（  ）」，請從下列選項中選出最恰當的：",
+    "options": ["仞", "尺", "丈", "里"],
+    "answer": 0,
+    "explanation": "「為山九仞,功虧一簣」。「仞」為古代計算長度的單位，一說八尺為一仞，一說七尺為一仞。"
+  },
+  {
+    "id": 23,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）紙鈔」，請從下列選項中選出最恰當的：",
+    "options": ["捆", "株", "份", "撮"],
+    "answer": 0,
+    "explanation": "「一捆紙鈔」。「捆」計算成束物件的單位，如一捆木柴、兩捆報紙、一捆紙鈔。"
+  },
+  {
+    "id": 24,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）電話」，請從下列選項中選出最恰當的：",
+    "options": ["通", "枝", "員", "把"],
+    "answer": 0,
+    "explanation": "「一通電話」。「通」計算文書、電訊的單位，如一通電話、一通電報。"
+  },
+  {
+    "id": 25,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）定心丸」，請從下列選項中選出最恰當的：",
+    "options": ["劑", "齣", "局", "盞"],
+    "answer": 0,
+    "explanation": "「一劑定心丸」。「劑」計算經過調配後的藥物的單位。"
+  },
+  {
+    "id": 26,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）血」，請從下列選項中選出最恰當的：",
+    "options": ["灘", "頂", "陣", "場"],
+    "answer": 0,
+    "explanation": "「一灘血」。「灘」計算成灘液體的單位。"
+  },
+  {
+    "id": 27,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）旅客」，請從下列選項中選出最恰當的：",
+    "options": ["批", "家", "戶", "間"],
+    "answer": 0,
+    "explanation": "「一批旅客」。「批」計算成群的人或物品的單位，如一批旅客、出售一批木材。"
+  },
+  {
+    "id": 28,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）旅店」，請從下列選項中選出最恰當的：",
+    "options": ["家", "堵", "窩", "床"],
+    "answer": 0,
+    "explanation": "「一家旅店」。「家」計算家庭、店鋪、大型企業等的單位，如一家飯鋪、一家超級市場、一家旅店。"
+  },
+  {
+    "id": 29,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）電影」，請從下列選項中選出最恰當的：",
+    "options": ["部", "架", "闋", "組"],
+    "answer": 0,
+    "explanation": "「一部電影」。「部」計算書籍、影視戲劇等的單位。"
+  },
+  {
+    "id": 30,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）洋裝」，請從下列選項中選出最恰當的：",
+    "options": ["套", "間", "盤", "幅"],
+    "answer": 0,
+    "explanation": "「一套洋裝」。「套」計算成組事物的單位，如一套洋裝、一套理論。"
+  },
+  {
+    "id": 31,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）香煙」，請從下列選項中選出最恰當的：",
+    "options": ["條", "頭", "尾", "捆"],
+    "answer": 0,
+    "explanation": "「一條香煙」。「條」計算條狀物的單位，如一條魚、一條香煙、一條裙子。"
+  },
+  {
+    "id": 32,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）鮮花」，請從下列選項中選出最恰當的：",
+    "options": ["簇", "紙", "首", "幀"],
+    "answer": 0,
+    "explanation": "「一簇鮮花」。「簇」計算群集的花、草或物的單位，如一簇鮮花、一簇簇野草。"
+  },
+  {
+    "id": 33,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）右勾拳」，請從下列選項中選出最恰當的：",
+    "options": ["記", "籃", "口", "通"],
+    "answer": 0,
+    "explanation": "「一記右勾拳」。「記」計算敲擊次數的單位，如一記悶棍、一記右勾拳。"
+  },
+  {
+    "id": 34,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「十（  ）粗的古樹」，請從下列選項中選出最恰當的：",
+    "options": ["圍", "回", "遍", "周"],
+    "answer": 0,
+    "explanation": "「十圍粗的古樹」。「圍」計算兩隻胳膊合抱長度的單位，如十圍粗的古樹。"
+  },
+  {
+    "id": 35,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「三（  ）蛋糕」，請從下列選項中選出最恰當的：",
+    "options": ["層", "重", "簇", "套"],
+    "answer": 0,
+    "explanation": "「三層蛋糕」。「層」計算重疊、累積物的單位，如五層樓房、兩層玻璃、三層蛋糕。"
+  },
+  {
+    "id": 36,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「一（  ）棋」，請從下列選項中選出最恰當的：",
+    "options": ["盤", "方", "幅", "記"],
+    "answer": 0,
+    "explanation": "「一盤棋」。「盤」計算棋局段落的單位，如下一盤棋。"
+  },
+  {
+    "id": 1,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用完全正確？",
+    "options": ["天空出現了一道彩虹。", "桌上擺著一顆眼鏡。", "他買了一匹雞。", "老師出了一個題目。"],
+    "answer": 0,
+    "explanation": "「一道彩虹」為正確用法。應為「一副眼鏡」；應為「一隻雞」；「一個題目」雖可用，但「一道題目」更精確。"
+  },
+  {
+    "id": 2,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用不完全正確？",
+    "options": ["這是一場精彩的球賽。", "院子裡種了一株小草。", "他因為作弊而受到一顆嚴厲的懲罰。", "遠方傳來一陣騷動。"],
+    "answer": 2,
+    "explanation": "「懲罰」通常不用「顆」，應改為「一個」或「一次」嚴厲的懲罰。"
+  },
+  {
+    "id": 3,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「一（　）明月」、「一（　）彩霞」、「一（　）清泉」，上述缺空處依序應填入哪些量詞？",
+    "options": ["輪／抹／泓", "顆／片／道", "輪／朵／池", "面／抹／股"],
+    "answer": 0,
+    "explanation": "「一輪明月」計量月亮；「一抹彩霞」帶有詩意；「一泓清泉」指清水的一片。"
+  },
+  {
+    "id": 4,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列哪一個選項中的量詞使用是正確的？",
+    "options": ["一齣電影", "一副碗筷", "一匹小狗", "一道菜餚"],
+    "answer": 3,
+    "explanation": "應為「一場」或「一部」電影；應為「一雙」或「一套」碗筷；應為「一隻」小狗；「一道菜餚」為正確用法。"
+  },
+  {
+    "id": 5,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「這（　）火車共有十二（　）車廂。」上述缺空處依序應填入什麼量詞？",
+    "options": ["列／節", "部／節", "列／輛", "節／列"],
+    "answer": 0,
+    "explanation": "「一列火車」計算成行成列的事物；「十二節車廂」計算車廂數目。"
+  },
+  {
+    "id": 6,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用完全正確？",
+    "options": ["他昨天收到一封掛號信。", "請給我一顆水。", "這是一隻好機會。", "他買了一顆帽子。"],
+    "answer": 0,
+    "explanation": "正確，信件用「封」。應為「一杯」水；應為「一個」機會；應為「一頂」帽子。"
+  },
+  {
+    "id": 7,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用不完全正確？",
+    "options": ["媽媽煮了一道拿手好菜。", "弟弟因為調皮而挨了一頓罵。", "這是一項艱難的任務。", "天空飄來一陣烏雲。"],
+    "answer": 3,
+    "explanation": "應為「一片烏雲」、「一朵烏雲」）。"
+  },
+  {
+    "id": 8,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「牆上掛著一（　）圖畫，桌上放著一（　）眼鏡。」上述缺空處依序應填入什麼量詞？",
+    "options": ["幅／副", "張／只", "幅／雙", "面／副"],
+    "answer": 0,
+    "explanation": "「一幅圖畫」計算平面物；「一副眼鏡」計算成套物品。"
+  },
+  {
+    "id": 9,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列哪一個選項中的量詞使用是正確的？",
+    "options": ["一輪旭日", "一匹牛", "一顆大樹", "一張雨傘"],
+    "answer": 0,
+    "explanation": "「一輪旭日」正確；應為「一頭牛」；應為「一棵大樹」；應為「一把雨傘」。"
+  },
+  {
+    "id": 10,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「聽君一（　）話，勝讀十年書。」上述缺空處應填入什麼量詞？",
+    "options": ["席", "陣", "派", "段"],
+    "answer": 0,
+    "explanation": "「一席話」指一次談話。"
+  },
+  {
+    "id": 11,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用不完全正確？",
+    "options": ["他買了一匹布準備做衣服。", "這是一齣感人肺腑的戲。", "桌上放著一只戒指。", "爺爺在庭院種了一朵蘭花。"],
+    "answer": 3,
+    "explanation": "選項中「一朵蘭花」雖可通，但植物通常用「株」或「盆」，如「一株蘭花」、「一盆蘭花」。相較之下，「一匹布」、「一齣戲」、「一只戒指」皆為正確，故「種了一朵蘭花」最不精確。"
+  },
+  {
+    "id": 12,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「一（　）大雨過後，天邊出現了一（　）彩虹。」上述缺空處依序應填入什麼量詞？",
+    "options": ["場／道", "陣／條", "次／輪", "回／道"],
+    "answer": 0,
+    "explanation": "「一場大雨」計算自然現象；「一道彩虹」計算條狀物。"
+  },
+  {
+    "id": 13,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列哪一個選項中的量詞使用是正確的？",
+    "options": ["這是一份珍貴的禮物。", "他唱了一副好聽的歌。", "教室裡有一副黑板。", "請幫我拿一顆椅子。"],
+    "answer": 0,
+    "explanation": "「一份禮物」正確；應為「一首」歌；應為「一塊」或「一面」黑板；應為「一張」或「一把」椅子。"
+  },
+  {
+    "id": 14,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「一（　）軍隊」、「一（　）歌曲」，上述缺空處應填入什麼量詞？",
+    "options": ["支／支", "隊／首", "支／首", "群／支"],
+    "answer": 0,
+    "explanation": "「一支軍隊」計算隊伍；「一支歌曲」計算歌曲。"
+  },
+  {
+    "id": 15,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用不完全正確？",
+    "options": ["媽媽買了一份報紙。", "他因為遲到而被記了一個警告。", "這是一座雄偉的高山。", "這是一支強大的軍隊。"],
+    "answer": 1,
+    "explanation": "「警告」通常用「一次」或「一個」，但更標準的說法是「一次警告」或「一支警告」（記過）。此題中「一個警告」選項較弱，其餘皆正確。若需修改，可將改為「一記警告」更佳。"
+  },
+  {
+    "id": 16,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「一（　）報紙」、「一（　）工作」、「一（　）甜點」，上述缺空處依序應填入什麼量詞？",
+    "options": ["份／份／份", "張／項／塊", "份／個／盤", "份／件／份"],
+    "answer": 0,
+    "explanation": "「一份報紙」、「一份工作」、「一份甜點」皆使用「份」計算定量事物。"
+  },
+  {
+    "id": 17,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列哪一個選項中的量詞使用是不正確的？",
+    "options": ["一泓清泉", "一座星星", "一朵雲", "一道門"],
+    "answer": 0,
+    "explanation": "「一泓清泉」正確；應為「一顆星星」正確；「一朵雲」正確；「一道門」正確。"
+  },
+  {
+    "id": 18,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「他倆年紀差了一（　）」，上述缺空處應填入什麼量詞？",
+    "options": ["輪", "圈", "回", "次"],
+    "answer": 0,
+    "explanation": "「差了一輪」指相差12歲。"
+  },
+  {
+    "id": 19,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用不完全正確？",
+    "options": ["老師出了一道題目。", "他寫了一篇好文章。", "這是一隻優美的歌曲。", "桌上放著一副眼鏡。"],
+    "answer": 2,
+    "explanation": "「一隻歌曲」錯誤，應為「一首」或「一支」歌曲。"
+  },
+  {
+    "id": 20,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「一（　）戲」、「一（　）電影」、「一（　）話」，上述缺空處依序應填入什麼量詞？",
+    "options": ["齣／場／席", "場／部／段", "齣／部／席", "部／場／句"],
+    "answer": 0,
+    "explanation": "「一齣戲」計算戲曲；「一場電影」計算活動；「一席話」計算談話。"
+  },
+  {
+    "id": 21,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列哪一個選項中的量詞使用是正確的？",
+    "options": ["一匹馬", "一匹牛", "一匹狗", "一匹豬"],
+    "answer": 0,
+    "explanation": "「一匹馬」正確，其他應為「一頭」牛、狗、豬。"
+  },
+  {
+    "id": 22,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用完全正確？",
+    "options": ["他在山上種了一株蘭花。", "她買了一顆新車。", "這是一隻美好的回憶。", "天空飄著一顆白雲。"],
+    "answer": 0,
+    "explanation": "植物用「株」。應為「一輛」新車；應為「一段」美好的回憶；應為「一朵」白雲。"
+  },
+  {
+    "id": 23,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「一（　）清泉」、「一（　）日光」，上述缺空處依序應填入什麼量詞？",
+    "options": ["泓／派", "道／片", "池／陣", "股／抹"],
+    "answer": 0,
+    "explanation": "「一泓清泉」指清水的一片；「一派日光」指一大片日光。"
+  },
+  {
+    "id": 24,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用不完全正確？",
+    "options": ["他獲得了一面金牌。", "媽媽買了一雙襪子。", "他跌倒時摔斷了一根腿。", "這是一門有趣的課。"],
+    "answer": 2,
+    "explanation": "選項「一根腿」錯誤，應為「一條腿」。"
+  },
+  {
+    "id": 25,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列哪一個選項中的量詞使用是正確的？",
+    "options": ["一輪明月", "一座小草", "一顆大樹", "一片汽車"],
+    "answer": 0,
+    "explanation": "應為「一株」小草；應為「一棵」大樹；應為「一輛」汽車。"
+  },
+  {
+    "id": 26,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「桌上放著一（　）新書、一（　）清茶，牆上還掛著一（　）古畫。請依序選出最恰當的量詞組合：",
+    "options": ["本／杯／幅", "冊／盞／個", "部／口／張", "條／件／面"],
+    "answer": 0,
+    "explanation": "「一本新書」、「一杯清茶」、「一幅古畫」為標準用法。"
+  },
+  {
+    "id": 27,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用完全正確？",
+    "options": ["這是一場精彩的演講。", "他買了一顆新衣服。", "這是一隻好機會。", "我收到一封禮物。"],
+    "answer": 0,
+    "explanation": "「一場演講」正確；應為「一件」新衣服；應為「一個」好機會；應為「一份」禮物。"
+  },
+  {
+    "id": 28,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列各句中的量詞，何者使用不完全正確？",
+    "options": ["窗外傳來一陣鳥叫聲。", "這是一份艱難的工作。", "他在紙上畫了一朵花。", "這是一付漂亮的手套。"],
+    "answer": 3,
+    "explanation": "選項中「一付手套」錯誤，應為「一副手套」。"
+  },
+  {
+    "id": 29,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「天空出現了一（　）彩虹，緊接著下起了一（　）大雨。」上述缺空處依序應填入什麼量詞？",
+    "options": ["道／場", "條／次", "輪／陣", "面／回"],
+    "answer": 0,
+    "explanation": "「一道彩虹」計算條狀物；「一場大雨」計算自然現象。"
+  },
+  {
+    "id": 30,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "下列哪一個選項中的量詞使用是最適當的？",
+    "options": ["一齣話劇", "一匹大象", "一顆眼鏡", "一輪太陽"],
+    "answer": 0,
+    "explanation": "「一齣話劇」正確；應為「一頭」大象；應為「一副」眼鏡；「一輪太陽」亦正確，但本題單選，「一齣話劇」為最典型用法。"
+  }
+]
